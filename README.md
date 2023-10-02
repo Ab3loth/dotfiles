@@ -16,3 +16,4 @@ cd ~/dotfiles
 ```
 mv ~/dotfiles/.config ~/ && mv ~/dotfiles/.local ~/
 ```
+switched to hyprland since, these might not work or might be kinda shit so yeah
