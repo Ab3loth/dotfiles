@@ -8,7 +8,7 @@ paru -Sy rofi openbox picom polybar wezterm
 
 ### Steps To Install
 ```
-git clone https://github.com/Zarbok786/dotfiles.git -b master ~/
+git clone https://github.com/Ab3loth/dotfiles.git -b master ~/
 ```
 ```
 cd ~/dotfiles
